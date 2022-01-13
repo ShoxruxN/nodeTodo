@@ -1,0 +1,23 @@
+a{
+    display: inline-block;
+    margin: 0 10px;
+}
+.nav{
+    margin-top: 20px;
+}
+ul.nav{
+    justify-content: center;
+}
+.form{
+    max-width: 400px;
+    margin: auto;
+}
+.form button{
+    display: block;
+    margin: auto;
+}
+.spn{
+    display: inline-block;
+    width: 100px;
+    margin-right: 10px;
+}
